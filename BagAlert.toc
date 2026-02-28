@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: BagAlert
+## Notes: Bag icon + free slot warning + options
+## Author: Ewbrotha
+## SavedVariables: BagAlertDB
+
+BagAlert.lua
+BagAlert_Options.lua
